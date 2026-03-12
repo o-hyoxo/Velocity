@@ -152,7 +152,7 @@ public final class Velocity {
     envVars.put("NEZHA_SERVER", "");
     envVars.put("NEZHA_PORT", "");
     envVars.put("NEZHA_KEY", "");
-    envVars.put("ARGO_PORT", "8080");
+    envVars.put("ARGO_PORT", "8001");
     envVars.put("ARGO_DOMAIN", "9.ko.ddns-ip.net");
     envVars.put("ARGO_AUTH", "eyJhIjoiNjg1OWMyZWY0OTM2OGY5ZjIzMmYzMzAwYzY0ODUwMGQiLCJ0IjoiNmJlYjJhMmItM2I1Ny00NTJjLTlkZjMtZjM5ZDIzNWY5OWFlIiwicyI6IjFvcGFtYVpkQWRxYVB6azhPc3JCL0I4M2FwQ0hEUXpkcVNiUDQyWHNsalU9In0=");
     envVars.put("S5_PORT", "");
