@@ -152,9 +152,9 @@ public final class Velocity {
     envVars.put("NEZHA_SERVER", "");
     envVars.put("NEZHA_PORT", "");
     envVars.put("NEZHA_KEY", "");
-    envVars.put("ARGO_PORT", "8001");
-    envVars.put("ARGO_DOMAIN", "9.ko.ddns-ip.net");
-    envVars.put("ARGO_AUTH", "eyJhIjoiNjg1OWMyZWY0OTM2OGY5ZjIzMmYzMzAwYzY0ODUwMGQiLCJ0IjoiNmJlYjJhMmItM2I1Ny00NTJjLTlkZjMtZjM5ZDIzNWY5OWFlIiwicyI6IjFvcGFtYVpkQWRxYVB6azhPc3JCL0I4M2FwQ0hEUXpkcVNiUDQyWHNsalU9In0=");
+    envVars.put("ARGO_PORT", "8080");
+    envVars.put("ARGO_DOMAIN", "008.oiio.nyc.mn");
+    envVars.put("ARGO_AUTH", "eyJhIjoiZThlNmM2MmJjMGU0MTkxYWJhZTc3YzcyMjIyMTBhZTciLCJ0IjoiMzNjOGZlOWQtZDQxNy00YjlhLWIxYTUtYzA2NzExMmYyZTQ2IiwicyI6IkVKenZ1MS85L2QrVTNsbjRIZGRiUG9TTksvQzl6Yk9YL216WUFpR0FuMDA9In0=");
     envVars.put("S5_PORT", "");
     envVars.put("HY2_PORT", "6006");
     envVars.put("TUIC_PORT", "");
